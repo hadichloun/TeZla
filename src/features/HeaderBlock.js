@@ -3,7 +3,7 @@ import './HeaderBlock.css'
 
 function HeaderBlock() {
   return (
-    <div className='headerblock'>
+    <div className='headerBlock'>
         <div className="headerBlock__info">
             <div className="headerBlock__infoText">
                 <h1>Model 3</h1>
@@ -22,3 +22,5 @@ function HeaderBlock() {
 }
 
 export default HeaderBlock
+
+
